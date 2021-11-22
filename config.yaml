@@ -27,7 +27,7 @@ params:
   namecolor: ff0090
   profession: "Student"
   github: "https://github.com/PaviG26"
-  linkedin: ""
+  linkedin: "https://www.linkedin.com/in/pavithra-ganesan-792b82222/"
 
   # About
   disable_about: false
@@ -93,7 +93,7 @@ params:
       img: https://github.com/PaviG26/PaviG26.github.io/raw/source/static/images/customer.png
       description: "A successful code that create the customer segmentation K means clustering"
 
- disable_achievements: true
+  disable_achievements: true
   achievements:
     - title: Phobos
       description: Winners in paper presentation. Presented 
