@@ -84,13 +84,13 @@ params:
   disable_projects: false
   projects:
     - name: "Random Password Generator"
-      img: https://github.com/PaviG26/PaviG26.github.io/blob/source/static/images/download.png
+      img: https://github.com/PaviG26/PaviG26.github.io/raw/source/static/images/download.png
       description: "A successful code that create the password."
     - name: "Covid 19 Vaccination Progress Prediction"
-      img: https://github.com/PaviG26/PaviG26.github.io/blob/source/static/images/images.png
+      img: https://github.com/PaviG26/PaviG26.github.io/raw/source/static/images/images.png
       description: "A sucessful code that create the Covid 19 Vaccination Progress Prediction"
     - name: "Customer Segmentation k Means clustering"
-      img: https://github.com/PaviG26/PaviG26.github.io/blob/source/static/images/customer.png
+      img: https://github.com/PaviG26/PaviG26.github.io/raw/source/static/images/customer.png
       description: "A successful code that create the customer segmentation K means clustering"
 
  disable_achievements: true
