@@ -84,15 +84,21 @@ params:
   disable_projects: false
   projects:
     - name: "Random Password Generator"
-      img: /images/download.png
+      img: https://github.com/PaviG26/PaviG26.github.io/blob/source/static/images/download.png
       description: "A successful code that create the password."
     - name: "Covid 19 Vaccination Progress Prediction"
-      img: /images/images.png
+      img: https://github.com/PaviG26/PaviG26.github.io/blob/source/static/images/images.png
       description: "A sucessful code that create the Covid 19 Vaccination Progress Prediction"
     - name: "Customer Segmentation k Means clustering"
-      img: /images/customer.png
+      img: https://github.com/PaviG26/PaviG26.github.io/blob/source/static/images/customer.png
       description: "A successful code that create the customer segmentation K means clustering"
 
+ disable_achievements: true
+  achievements:
+    - title: Phobos
+      description: Winners in paper presentation. Presented 
+      img: /images/Phobos.jpeg
+      
   # Contact
   disable_contact: false
   contact_content: My inbox is constantly open. I'll do my best to respond to you, whether you have a question or simply want to say hello!
